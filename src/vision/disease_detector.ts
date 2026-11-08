@@ -100,3 +100,5 @@ export class FoliarDiseaseClassifier {
 // Cercospora leaf spot detection profile
 
 // Bacterial wilt vascular index
+
+// Calibrated organic treatment profiles
