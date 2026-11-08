@@ -64,3 +64,5 @@ describe('Fao56IrrigationEngine', () => {
 // Arid boundary tests
 
 // Solar zenith angle invariance test
+
+// Lesion severity precision test
