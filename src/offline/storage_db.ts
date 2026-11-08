@@ -58,3 +58,5 @@ export class OfflineFieldDatabase {
     });
   }
 }
+
+// Cursor pagination for offline logs
