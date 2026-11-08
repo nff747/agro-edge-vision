@@ -60,3 +60,5 @@ export class OfflineFieldDatabase {
 }
 
 // Cursor pagination for offline logs
+
+// Multi-field batch export utility
