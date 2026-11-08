@@ -1,0 +1,30 @@
+{
+  "name": "@nff747/agro-edge-vision",
+  "version": "1.0.0",
+  "description": "\ud83c\udf31 Offline-First Zero-Install Agricultural Crop Diagnostic, Spectral Vision & Precision Irrigation Engine",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "agriculture",
+    "farmer",
+    "crop-disease-detection",
+    "precision-irrigation",
+    "fao-56",
+    "penman-monteith",
+    "spectral-indices",
+    "offline-first",
+    "webgpu",
+    "pwa",
+    "zero-install"
+  ],
+  "author": "nff747 <nff747@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
