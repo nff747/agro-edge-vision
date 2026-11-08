@@ -116,3 +116,5 @@ export class Fao56IrrigationEngine {
 }
 
 // Hargreaves-Samani radiation fallback approximation
+
+// Hourly Penman-Monteith step coefficients
