@@ -99,3 +99,5 @@ export class SpectralIndexEngine {
 }
 
 export const EPSILON_GUARD = 1e-6;
+
+// Branchless SIMD evaluation
