@@ -62,3 +62,5 @@ export class OfflineFieldDatabase {
 // Cursor pagination for offline logs
 
 // Multi-field batch export utility
+
+// Automatic IDB transaction abort recovery
