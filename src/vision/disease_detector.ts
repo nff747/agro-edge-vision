@@ -98,3 +98,5 @@ export class FoliarDiseaseClassifier {
 }
 
 // Cercospora leaf spot detection profile
+
+// Bacterial wilt vascular index
