@@ -96,3 +96,5 @@ export class FoliarDiseaseClassifier {
     };
   }
 }
+
+// Cercospora leaf spot detection profile
