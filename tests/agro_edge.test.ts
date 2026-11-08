@@ -60,3 +60,5 @@ describe('Fao56IrrigationEngine', () => {
     expect(req.dailyVolumeLiters).toBeGreaterThan(6000);
   });
 });
+
+// Arid boundary tests
