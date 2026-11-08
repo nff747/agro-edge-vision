@@ -101,3 +101,5 @@ export class SpectralIndexEngine {
 export const EPSILON_GUARD = 1e-6;
 
 // Branchless SIMD evaluation
+
+export const GLI_COEFF_GREEN = 2.0;
