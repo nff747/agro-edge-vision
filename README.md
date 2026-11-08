@@ -93,3 +93,5 @@ console.log(`Detected: ${diagnosis.primaryDiagnosis} (${diagnosis.organicTreatme
 
 Licensed under the [Apache License, Version 2.0](LICENSE).  
 Copyright (c) 2026 [nff747](https://github.com/nff747).
+
+<!-- 500 Commits Badge -->
