@@ -1,0 +1,17 @@
+{
+  "name": "AgroEdge Vision - Offline Crop Health & Irrigation",
+  "short_name": "AgroEdge",
+  "description": "Real-time in-browser crop leaf disease detection and FAO-56 precision irrigation calculator for farmers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040711",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
