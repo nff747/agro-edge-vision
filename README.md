@@ -1,5 +1,7 @@
 # 🌱 AgroEdge Vision (open-crop-core)
 
+[![Lunar Paradox](https://img.shields.io/badge/Organization-Lunar_Paradox-0a0e1a?style=for-the-badge&logo=probot&logoColor=d7b886)](https://lunarparadox.com)
+
 > **Offline-First Zero-Install Agricultural Crop Diagnostic, Spectral Vision & Precision Irrigation Engine**  
 > Built for smallholder farmers, agronomists, and remote agricultural regions experiencing connectivity deserts, foliar crop diseases, and irrigation water scarcity.
 
@@ -95,3 +97,7 @@ Licensed under the [Apache License, Version 2.0](LICENSE).
 Copyright (c) 2026 [nff747](https://github.com/nff747).
 
 <!-- 500 Commits Badge -->
+
+---
+
+*A component of the [Lunar Paradox](https://lunarparadox.com) applied systems & graphics laboratory. Engineered by nff747.*
